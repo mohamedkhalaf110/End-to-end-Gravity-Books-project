@@ -1,8 +1,7 @@
 # End-to-end-Gravity-Books-project
 
-start feom creating data warhouse schema then ETL using SSIS
+start from creating data warhouse schema then ETL using SSIS
 
-Frist i configured data warhouse schema in sql server ms
 
 Create data cubes for analyzing orders and customer data.
 
