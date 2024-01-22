@@ -4,12 +4,18 @@ start feom creating data warhouse schema then ETL using SSIS
 
 Frist i configured data warhouse schema in sql server ms
 
+Create data cubes for analyzing orders and customer data.
+
 then using SSIS for systematic data collection, organizing information on books, customers, and sales
+
 Then SSAS for data cubes and analysis of order trends and customer behavior.
 
 -----------------------
 ## Database source
 <img width="661" alt="data source erd" src="https://github.com/mohamedkhalaf110/End-to-end-Gravity-Books-project/assets/93522514/ed7c661d-ce5f-4e70-aa4f-109c5815e0bb">
+
+-----------------------
+## DWH modeling
 
 Then i build a datawarehous schema, Snowflake schema is suitble due to the normalization of gravitybook store.
 
