@@ -18,20 +18,15 @@ Then SSAS for data cubes and analysis of order trends and customer behavior.
 
 Then i build a datawarehous schema, Snowflake schema is suitble due to the normalization of gravitybook store.
 
-![DWH](https://github.com/mohamedkhalaf110/End-to-end-Gravity-Books-project/assets/93522514/c8f4632b-88b0-4e66-8c63-4a70f96d5cd5)
+![image](https://github.com/mohamedkhalaf110/End-to-end-Gravity-Books-project/assets/93522514/54094c2b-91b2-4ed0-8fbc-db86cff4aa2d)
 
 --------------------
 
 ## ETL using SSIS
 Extract - transform - load data 
+<img width="702" alt="book etl" src="https://github.com/mohamedkhalaf110/End-to-end-Gravity-Books-project/assets/93522514/2d9f6e9a-cf96-4306-9fc6-0e9726642c8d">
 
-DIM table
-
-![ControlFlow](https://github.com/mohamedkhalaf110/End-to-end-Gravity-Books-project/assets/93522514/097f1af6-a489-46a1-908b-e66a3050e3b8)
-
-Fact table
-
-![factTable](https://github.com/mohamedkhalaf110/End-to-end-Gravity-Books-project/assets/93522514/86e00941-5ea8-40cb-8e79-c1985a5acb64)
+<img width="700" alt="Customer" src="https://github.com/mohamedkhalaf110/End-to-end-Gravity-Books-project/assets/93522514/9b882f9b-2655-4ac9-8688-7bfa317a3d1b">
 
 -------------------------
 ## Data Cube - SSAS
